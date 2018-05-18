@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyViewGroup">
+        <attr name="oritation" format="enum">
+            <enum name="horizontal" value="1" />
+            <enum name="vertical" value="0" />
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="MyViewGroup1">
+        <attr name="oritation" format="enum">
+            <enum name="horizontal" value="1" />
+            <enum name="vertical" value="0" />
+        </attr>
+    </declare-styleable>
+</resources>
